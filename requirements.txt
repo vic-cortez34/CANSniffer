@@ -1,0 +1,5 @@
+PyQt5>=5.15
+pyqtgraph>=0.13
+openai>=1.0.0
+requests>=2.28.0
+pyserial>=3.5
