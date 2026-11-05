@@ -51,7 +51,7 @@ from PyQt5.QtWidgets import (
 import pyqtgraph as pg
 
 # Configuration - Set your OpenAI API key here
-OPENAI_API_KEY = "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"  # Replace with your actual API key
+OPENAI_API_KEY = "OPEN_AI_API"  # Replace with your actual API key
 
 
 class CANReverseEngineeringAgent:
